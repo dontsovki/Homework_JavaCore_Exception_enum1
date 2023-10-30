@@ -1,7 +1,7 @@
 package org.example.Pacadge;
 
-public class Task1 {
-    public enum DayOfWeek {
+public class Task_ordinal_ {
+    public enum DayOfWeeker {
 
         SUNDAY,
         MONDAY,
